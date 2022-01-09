@@ -28,8 +28,8 @@ Run VMD with“pdb0.pdb” and “10714_trj_73.xtc” as input file, then you ca
 Run ”md_R.R” and obtain the files called “md_msf.xlsx, md_cof.xlsx and md_cij.csv", respectively.
 
 These above data and code are in the folder “MD_R” .
-### fcfGNM~MD~ constructed and key residues explored
-Run “fcfGNM~MD~.m”, “DPR.m” and “compnetwork.m”.
+### fcfGNMMD constructed and key residues explored
+Run “fcfGNMMD.m”, “DPR.m” and “compnetwork.m”.
 The output is the value of PCC, the dissipated work, the dynamic correlations upon a site perturbed, degree and Z-score.
 
 These above data and code are in the folder “KER-MATLAB”.
